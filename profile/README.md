@@ -9,6 +9,7 @@
 Privacy-preserving governance using **zero-knowledge proofs, BN254, and Poseidon** on Stellar Protocol 25.
 
 [**GitHub**](https://github.com/ZK-VOTE/ZK-VOTE)
+[**Website**](https://zk-vote-app.vercel.app/)
 
 ---
 
