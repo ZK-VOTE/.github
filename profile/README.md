@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "zk-vote.png" alt="ZKVote" width="100%" />
+  <img src= "zk-vote.jpg" alt="ZKVote" width="100%" />
 </p>
 
 # ZKVote
